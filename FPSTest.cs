@@ -6,7 +6,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Extiles_raylib;
+namespace RaylibCSExamples;
 
 internal class FPSTest : IRaylibScene
 {
